@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me hossein.farhangi@gmail.com
 - 📫 How to reach me [...](https://www.linkedin.com/in/hossein-f/)
-A data analyst, with 6 years of experience in the Telecom and Retail industries.
+A data analyst, with 7 years of experience in the Telecom and Retail industries.
 I am very enthusiastic about data-related fields such as Data Analysis, Machine Learning, and Data Science, and I study and do small personal projects in Machine Learning, and Data Science fields.
 I have hands-on experience in TSQL, Python, PowerBI, Microsoft Office, and Tableau.
 Experienced in analyzing and helping to coordinate the implementation of various projects as well as ensuring that all business and technical requirements are being met.
